@@ -19,7 +19,7 @@ email: lcfreitas@inf.ufpel.edu.br
 
     Partamon solutions for IPM
     
-    Acted throughout their product chain from product design, system design, development to deploying. Worked managing the development team and actualy work as  application consultant C/C++ and Python were the most used languages.
+    Acted throughout their product chain from product design, system design, development to deploying. Worked managing the development team and actualy work as  application consultant. C/C++ and Python were the most used languages.
     
 * **AI for industry Residency** (April 2021, Present)
  
@@ -40,3 +40,11 @@ email: lcfreitas@inf.ufpel.edu.br
 *   **Deep Learning applied to the Identificationof Fruit Fly in Intelligent Traps** (Nov 19, 2019)
 
     IX Brazilian Symposium on Computing Systems Engineering (SBESC) 
+    
+## Skills : Level
+
+* Machine Learning : *high*
+* Deep Learning : *high*
+* Python : *high*
+* Data Science : *intermediary*
+* C/C++ : *intermediary*

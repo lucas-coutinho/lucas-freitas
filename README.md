@@ -27,7 +27,8 @@ email: lcfreitas@inf.ufpel.edu.br
     
     Development of machine learning and AI applications for several companies from different technology sectors with practical applications of technologies in Artificial Intelligence for its entire value chain, from the BackOffice (HR, Legal, etc.) to the production areas , supplies, sales etc.
 
- ## Education
+
+## Education
 *   **Computer Engineering**(2020)
 
     Federal University of Pelotas

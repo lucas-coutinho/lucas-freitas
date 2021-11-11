@@ -15,7 +15,7 @@ email: lcfreitas@inf.ufpel.edu.br
  
 ## Work Experience
 
-* **Embedded Software Developer** (2017, Present)
+* **Embedded Software Developer** (2017, 2021)
 
     Partamon solutions for IPM
     
@@ -27,6 +27,12 @@ email: lcfreitas@inf.ufpel.edu.br
     
     Development of machine learning and AI applications for several companies from different technology sectors with practical applications of technologies in Artificial Intelligence for its entire value chain, from the BackOffice (HR, Legal, etc.) to the production areas , supplies, sales etc.
 
+* **Data Scientist** (July 2021, Present)
+
+    SellersFunding Co.
+    
+    Selecting features, building and optimizing classifiers using machine learning
+techniques. Data mining using state-of-the-art methods. Extending company’s data with third party sources of information when needed. Enhancing data collection procedures to include information that is relevant for building analytic systems, Processing, cleansing, and verifying the integrity of data used for analysis.
 
 ## Education
 *   **Computer Engineering**(2020)
@@ -47,5 +53,5 @@ email: lcfreitas@inf.ufpel.edu.br
 * Machine Learning : *high*
 * Deep Learning : *high*
 * Python : *high*
-* Data Science : *intermediary*
+* Data Science : *high*
 * C/C++ : *intermediary*
